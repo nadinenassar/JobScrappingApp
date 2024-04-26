@@ -1,0 +1,18 @@
+{
+"manifest_version": 3,
+"version":"1.0.0",
+"name":"JobScrapingVite",
+"action":{
+    "default_popup":"index.html"
+},
+"permissions":[
+    "scripting"
+],
+"host_permissions":[
+    "http://*/*",
+    "https://*/*",
+    "chrome://extensions/*"],
+"icons":{
+    "32":"icons32.png"
+}
+}
