@@ -1,3 +1,7 @@
+# Job Scraping App
+
+This chrome extension built on React Js and Vite, allows users on Linkedin to open the chrome extension and scrape the current job they are applying to. 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
